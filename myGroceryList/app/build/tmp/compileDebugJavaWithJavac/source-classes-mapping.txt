@@ -1,0 +1,6 @@
+com/example/mygrocerylist/BuildConfig.java
+ com.example.mygrocerylist.BuildConfig
+com/example/mygrocerylist/adapterFile.java
+ com.example.mygrocerylist.adapterFile
+com/example/mygrocerylist/MainActivity.java
+ com.example.mygrocerylist.MainActivity
